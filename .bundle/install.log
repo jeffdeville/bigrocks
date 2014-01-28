@@ -1,0 +1,7 @@
+# Logfile created on 2014-01-27 08:43:48 -0500 by logger.rb/41954
+I, [2014-01-27T08:43:48.581083 #48817]  INFO -- : 0:  builder (3.2.2) from /Users/jeff/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.2.2.gemspec
+I, [2014-01-27T08:43:48.581390 #48817]  INFO -- : 0:  json (1.8.1) from /Users/jeff/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-01-27T08:43:49.658527 #48817]  INFO -- : 0:  multi_xml (0.5.5) from /Users/jeff/.rvm/gems/ruby-2.0.0-p353/specifications/multi_xml-0.5.5.gemspec
+I, [2014-01-27T08:43:51.726082 #48817]  INFO -- : 0:  httparty (0.12.0) from /Users/jeff/.rvm/gems/ruby-2.0.0-p353/specifications/httparty-0.12.0.gemspec
+I, [2014-01-27T08:43:53.025110 #48817]  INFO -- : 0:  twilio (3.1.1) from /Users/jeff/.rvm/gems/ruby-2.0.0-p353/specifications/twilio-3.1.1.gemspec
+I, [2014-01-27T08:43:53.025345 #48817]  INFO -- : 0:  bundler (1.5.1) from /Users/jeff/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
